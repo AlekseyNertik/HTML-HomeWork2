@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <a href="index.html">Главная</a>
+    <a href="contacts.html">Контакты</a>
+    <img src="book.png" alt="book">
+    <h1>First Site</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore voluptas iste porro sequi. Iste explicabo
+        accusamus cupiditate nesciunt nisi, non, modi accusantium fuga corporis autem corrupti consequatur. Ipsam, earum
+        harum!</p>
+    <h3>Заголовок 3</h3>
+    <h4>Заголовок 4</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint sunt quibusdam culpa neque quos eum
+    </p>
+    <h3>Заголовок 3</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+    <h3>Заголовок 3</h3>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Porro alias </p>
+    <hr>
+    <p>
+    <h3>Контаты</h3>
+    <ul>
+        <li>ООО "Рога и копыта"
+        <li>8-800-000-55-55
+        <li>Email ric@mail.ru
+    </ul>
+
+    </p>
+    <p>"Все права защищены"</p>
+
+</body>
+
+</html>
